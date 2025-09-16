@@ -18,7 +18,8 @@ Este projeto simula e analisa um conjunto de transações, identificando **erros
 - `transacoes_ficticias.csv` → Base fictícia de transações criada para o desafio.  
 - `analise_transacoes.ipynb` → Notebook com toda a análise exploratória, gráficos e cálculos.  
 - `requirements.txt` → Dependências necessárias para executar o projeto.  
-- `README.md` → Documentação do projeto.  
+- `README.md` → Documentação do projeto.
+- `Desafio_PROJ_ 1091889820_MESTRE_ITAÚ_Joao-Victor-Rodrigues-da-silva-leite` → Apresentação dos resultados.
 
 ---
 
